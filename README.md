@@ -15,6 +15,6 @@ In this repository, I will upload all the tasks that I perform while my Python D
 
 ---
 
-<div style="display:flex;justify-content:end;">
+<div style="text-align:right">
     <h3 style="font-weight:900;margin:0">Tasks by Humanshu Jaglan with ❤️ in Bharat</h3>
 </div>
