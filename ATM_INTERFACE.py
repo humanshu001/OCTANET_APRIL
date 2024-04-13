@@ -122,8 +122,6 @@ def auth():
         auth()
 
 def main():
-    user_id = 1001
-    pin = 1234
     balance = 1000000
     transactions = []
 
